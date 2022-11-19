@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQ5U0M6Cj1v6UheYFtVQZFjVzxzgwmB794DcLqJZIFmNj0z0A5ovH5R+2V4VAV9k1qDMUlFN1DvSpo6ULAR0uw==",
+  "success": true,
+  "projectFilePath": "/Users/clintonkwong/Projects/PS9/Spreadsheet/Formula/Formula.csproj",
+  "expectedPackageFiles": [
+    "/Users/clintonkwong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
